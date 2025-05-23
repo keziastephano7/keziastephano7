@@ -1,15 +1,15 @@
-## Hi there 👋
+## Hey there!
 
 I'm Kezia Stephano, an Information Technology Major @ SSN College of Engineering. I love coding and building web applications!
 
 ---
 
-## 🔭 I’m currently working on
+## 🌿 Currently working on
 - Detection and Classification of Cardiac Arrhythmia using ECG Signals
 
 ---
 
-## 🛠️ Languages & Tools
+## 🍏 Languages & Tools
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
@@ -24,8 +24,8 @@ I'm Kezia Stephano, an Information Technology Major @ SSN College of Engineering
 
 --- 
 
-## 📫 How to reach me
-- 📧 kezia2210627@ssn.edu.in 
+## 🌱 Reach me
+- 📧 [Email](kezia2210627@ssn.edu.in)
 - 🔗 [LinkedIn](www.linkedin.com/in/kezia-stephano-312589290)
 
 ---
