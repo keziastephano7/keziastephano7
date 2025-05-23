@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Kezia Stephano, a Information Technology Major @ SSN College of Engineering. I love coding and building web applications!
+I'm Kezia Stephano, an Information Technology Major @ SSN College of Engineering. I love coding and building web applications!
 
 ---
 
