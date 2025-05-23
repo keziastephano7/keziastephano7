@@ -25,7 +25,7 @@ I'm Kezia Stephano, a Information Technology Major @ SSN College of Engineering.
 --- 
 
 ## 📫 How to reach me
-- 📧 kezia2210627@ssn.edu.in *(replace with yours)*
+- 📧 kezia2210627@ssn.edu.in 
 - 🔗 [LinkedIn](www.linkedin.com/in/kezia-stephano-312589290)
 
 ---
